@@ -1,3 +1,6 @@
+%
+% See LICENSE file distributed along with the package for the copyright and license terms.
+%
 % solve the following problem via SPG 
 %  min e'*f(Ax)/n + |x-c|^2*(rho/2)
 % where e is the all-ones vector, f(x) = log(1+exp(-x)),
