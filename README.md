@@ -6,7 +6,7 @@ the group cardinality constrained logistic regression problem of the following p
 Yong Zhang, Dongjin Kwon and Kilian M. Pohl:
 "Computing Group Cardinality Constraint Solutions for Logistic Regression Problems," MEDIA, 2016
 
-When using the code, please cite the paper and the DOI  XXXX.  
+When using the code, please cite the paper and the DOI: https://dx.doi.org/10.6084/m9.figshare.3398332
 
 The software development was supported by NIH grants (R01 HL127661, K05 AA017168) and the Creative and Novel Ideas in HIV Research (CNIHR) Program through a supplement to the University of Alabama at Birmingham (UAB) Center For AIDS Research funding (P30 AI027767). This funding was made possible by collaborative efforts of the Office of AIDS Research, the National Institute of Allergy and Infectious Diseases, and the International AIDS Society. 
 
