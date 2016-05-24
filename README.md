@@ -1,4 +1,3 @@
-
 ## Penalty Decomposition (PD) method for solving group cardinality constrained logistic regression.
 
 This package contains the MATLAB source codes for the penalty decomposition method solving 
@@ -55,4 +54,6 @@ in the package. For any questions, please contact Dr. Zhang via michaelzhang917@
 
 Yong Zhang, Dongjin Kwon and Kilian Pohl
 
-Last updated on May 19th, 2016
+See LICENSE file distributed along with the package for the copyright and license terms.
+
+Last updated on May 24th, 2016
