@@ -1,3 +1,6 @@
+%
+% See LICENSE file distributed along with the package for the copyright and license terms.
+%
 % This program aims to solve the problem:
 % min e'*f(Ax)/n
 % s.t. Group cardinality of x is less than or equal to k,
