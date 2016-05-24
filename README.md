@@ -14,6 +14,7 @@ The software development was supported by NIH grants (R01 HL127661, K05 AA017168
 
 To run the codes, the users should properly input data and parameters for the function PD_logreg_group as described below:
 
+```
 % -----  Function:  ----- 
 %
 % function x = PD_logreg_group(Z,b,k,group,varargin)
@@ -46,6 +47,7 @@ To run the codes, the users should properly input data and parameters for the fu
 %
 % x     - approximate sparse solution; last component is the bias term
 %
+```
 
 An example file for how to set up the input is given in test.m which is including
 in the package. For any questions, please contact Dr. Zhang via michaelzhang917@gmail.com
