@@ -1,3 +1,6 @@
+%
+% See LICENSE file distributed along with the package for the copyright and license terms.
+%
 % script for testing the penalty decomposition (PD) method for solving 
 % the group cardinality constrained logistic regression  
 
